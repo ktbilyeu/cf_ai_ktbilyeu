@@ -1,4 +1,4 @@
-name = "cf-ai-bikatr7"
+# The existing deployment name is supplied privately by `pnpm run deploy`.
 main = "src/index.ts"
 compatibility_date = "2024-01-01"
 

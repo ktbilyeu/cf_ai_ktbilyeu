@@ -9,6 +9,7 @@ build/
 .env.development
 .env.test
 .dev.vars
+.worker-deploy.local.json
 .vscode/
 .idea/
 .cursor/
